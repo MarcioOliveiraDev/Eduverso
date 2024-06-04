@@ -38,7 +38,6 @@ O projeto Eduverso tem como objetivo oferecer aulas interativas e imersivas dent
 - [Protótipo no Figma](https://www.figma.com/design/3nJ6GoxRg3bGZlYvPmh9ym/EduVerso?node-id=0-1)
 - [Diagrama de Caso de Uso Aluno](https://yuml.me/taldujoaozin/CasoDeUsoAluno.png)
 - [Diagrama de Caso de Uso Instituição](https://yuml.me/taldujoaozin/CasoDeUsoInstituicao.png)
-- [Lean Canvas](https://tinyurl.com/5n92csvf)
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
